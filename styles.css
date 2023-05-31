@@ -1,6 +1,6 @@
 #image {
-    max-width:50%;
-    height: 30%;
+    max-width: 100%;
+    height: auto;
   
     margin: 0 auto;
 }
